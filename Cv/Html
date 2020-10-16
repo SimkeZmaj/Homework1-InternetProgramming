@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CV </title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="./img/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css.css">
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.0.13/css/all.css"  crossorigin="anonymous">
+
+
+</head> 
+<body>
+  <header>
+    <div>
+      <img src="./img/simon.jpg" />
+      <h1></h1>
+    </div>
+  </header>
+  <main>
+    <div>
+    <section>
+      <p>Hello! I am Simon Cubalevski. I work as a iOS Developer. I'm  focused, dedicated, hard-working and willing to learn in a changing and challenging environment.</p>
+      <a href="https://www.facebook.com/simongazda/" target="_blank">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+      <a href="https://github.com/SimkeZmaj" target="_blank">
+        <i class="fab fa-github-alt"></i>
+      </a>
+      <a href="https://www.instagram.com/cubalevski/" target="_blank">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="#" target="_blank" class="icon-linkedin">
+        <i class="fab fa-linkedin">
+          </i>
+      </a>
+    </section>
+  </div>
+    <section>
+      <h3>Skills</h3>
+      <div class='skills'>
+        <div class='column'>
+          <h4>Good knowledge</h4>
+          <ul>
+            <li>HTML5</li>
+            <li>CSS</li>
+            <li>iOS</li>
+            <li>Swift</li>
+          </ul>
+        </div>
+        <div class='column'>
+          <h4>Basic knowledge</h4>
+          <ul>
+            <li>NodeJS</li>
+            <li>JavaScript</li>
+            <li>Android</li>
+            <li>C++</li>
+          </ul>
+        </div>
+        <div>
+          <h4>Languages</h4>
+          <p>mk Macedonian - Native speaker</p>
+          <p>🇬🇧 English - Proficient C1/C2</p>
+          <p>🇫🇷 French - Advanced - C1</p>
+          <p>🇪🇸 Spanish - Intermediate - B1/B2</p>
+          <p>🇩🇪 German - Elementary / Communicative - A2</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h3>Education</h3>
+      <article>
+        <div class='school'>
+          <span>2017-2021</span> <strong>University American College Skopje</strong>
+        </div>
+        <div class="descrition">
+          Bechelor Degree of Software Engineering
+        </div>
+      </article>
+      <article>
+        <div class='school'>
+          <span>2018-2019</span> <strong>Semos Education</strong>
+        </div>
+        <div>
+          iOS Development
+        </div>
+      </article>
+    </section>
+    <section>
+      <h3>Experience</h3>
+      <article>
+        <div class='job-title'>
+          <span>03.2018 - 12.2018</span> <strong>Codewell</strong><br> <strong>Position:</strong> iOS Developer
+        </div>
+        <div>
+          <p><strong>Tech stack:</strong> HTML5 / CSS / iOS / Firebase</p>
+          <ul class="job-description">
+            <li>Design and building applications for the iOS platform</li>
+            <li>Objective-C, or increasingly, the Swift 3.0 programming language</li>
+            <li>Using iOS frameworks such as Core Data, Core Animation, etc.</li>
+          </ul>
+        </div>
+      </article>
+    </section>
+  </main>
+  <footer>
+    <p>Created by: <a href="https://www.instagram.com/cubalevski/">@cubalevski</a>  / <a href="https://www.linkedin.com/in/simon-cubalevski//">LinkedIn</a> / 2020 </p>
+  </footer>
+</body>
+</html>
